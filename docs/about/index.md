@@ -1,5 +1,6 @@
 ### About These Docs
 
-Become a contributor! Together we can create a higher standard for software engineering.
+[![Alt text](/images/thumbnails/github.png)](https://github.com/ttatro32690/software-engineering-docs)
 
-[GitHub Repositories](https://github.com/ttatro32690)
+
+Become a Contributor and begin to raise the bar for Software Engineers!
