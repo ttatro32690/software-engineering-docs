@@ -1,11 +1,29 @@
 site_name: Software Engineering
+repo_url: https://github.com/ttatro32690/software-engineering-docs
 
 dev_addr: '0.0.0.0:8080'
 
+doc_dir: 'docs'
+site_dir: 'site'
+
 nav:
   - Home: index.md
-  - Best Practice: ./best_practice/index.md
-  - Technical: ./technical/index.md
-  - Artifact Templates: ./artifact_templates/index.md
-  - About: ./about/index.md
-  - Glossary: ./glossary.md
+  # Best Practices
+  - Best Practices: 
+    - Javascript: 'best_practices/javascript.md'
+  # Technical Documentation
+  - Technical: technical/index.md
+  # Templates
+  - Artifact Templates: 
+    - API Documentation: artifact_templates/api_documentation.md
+    - Engineering Task: artifact_templates/engineering_task.md
+    - Framework: artifact_templates/framework.md
+    - Project Overview: artifact_templates/project_overview.md
+    - Pull Request: artifact_templates/pull_request.md
+    - Technical Brief: artifact_templates/technical_brief.md
+    - Test Plan: artifact_templates/test_plan.md
+    - User Story: artifact_templates/user_story.md
+  # About
+  - About: about/index.md
+  # Glossary
+  - Glossary: glossary.md
