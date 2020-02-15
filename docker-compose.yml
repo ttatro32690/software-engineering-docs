@@ -1,1 +1,9 @@
-# Added for reference. Can be used in the future!
+version: '3'
+services:
+    web:
+        ports: 
+            - "8080:8080"
+        volumes:
+            - ./docs:/docs
+        build: 
+            context: ./docs
