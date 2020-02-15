@@ -6,5 +6,6 @@ nav:
   - Home: index.md
   - Best Practice: ./best_practice/index.md
   - Technical: ./technical/index.md
-  - Templates: ./templates/index.md
+  - Artifact Templates: ./artifact_templates/index.md
   - About: ./about/index.md
+  - Glossary: ./glossary.md
