@@ -13,3 +13,7 @@
 1. Ctrl^C out of the watch process on command line.
 2. Container should exit gracefully.
 3. If not, `docker-compose down` should kill the container.
+
+### Rebuild Container
+
+1. If changes are made to the container's configuration files(ymls, Dockerfile, etc.) a rebuild will need to occur. `docker-compose build`
