@@ -26,6 +26,7 @@ nav:
     - Technical Brief: artifact_templates/technical_brief.md
     - Test Plan: artifact_templates/test_plan.md
     - User Story: artifact_templates/user_story.md
+    - Contribution Guidelines: artifact_templates/contribution.md
   # About
   - About: about/index.md
   # Glossary
