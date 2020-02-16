@@ -6,4 +6,4 @@ services:
         volumes:
             - ./docs:/docs
         build: 
-            context: ./docs
+            context: ./
