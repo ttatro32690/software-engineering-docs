@@ -8,8 +8,6 @@ Template List
 
 * [Framework Documentation](framework)
 
-* [Project Overview](project_overview)
-
 * [Pull Request Template](pull_request)
 
 * [Technical Brief](technical_brief)
