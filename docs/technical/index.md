@@ -3,8 +3,8 @@
 ### Reference
 
 > #### Core Language
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [PHP](https://www.php.net/docs.php)
 * [Python](https://www.python.org/about/gettingstarted/)
