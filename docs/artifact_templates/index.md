@@ -15,3 +15,5 @@ Template List
 * [Test Plan](test_plan)
 
 * [User Story](user_story)
+
+* [Contribution Guidelines](contribution)
