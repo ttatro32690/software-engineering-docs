@@ -20,7 +20,7 @@ nav:
   - Artifact Templates: 
     - API Documentation: artifact_templates/api_documentation.md
     - Engineering Task: artifact_templates/engineering_task.md
-    - Framework: artifact_templates/framework.md 
+    - Framework: artifact_templates/framework.md
     - Pull Request: artifact_templates/pull_request.md
     - Technical Brief: artifact_templates/technical_brief.md
     - Test Plan: artifact_templates/test_plan.md
