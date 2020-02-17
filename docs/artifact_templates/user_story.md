@@ -11,7 +11,7 @@ All User Stories should include the following:
 * Acceptance criteria for MVP
 * Confirmation criteria
 
-As a guideline, the 3 C's of User Stories is a baseline for the following template.
+As a guideline, the __[3 C's](/glossary/#3-cs)__ of User Stories is a baseline for the following template.
 
 
 * * *
