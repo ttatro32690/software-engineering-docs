@@ -15,7 +15,7 @@ nav:
   - Best Practices: 
     - Javascript: 'best_practices/javascript.md'
   # Technical Documentation
-  - Technical: technical/index.md
+  - Technical: technical
   # Templates
   - Artifact Templates: 
     - API Documentation: artifact_templates/api_documentation.md
@@ -27,6 +27,9 @@ nav:
     - User Story: artifact_templates/user_story.md
     - Contribution Guidelines: artifact_templates/contribution.md
   # About
-  - About: about/index.md
+  - About: about
+  - Guides: 
+    - Home: guides
+    - Typescript React: guides/typescript_react
   # Glossary
   - Glossary: glossary.md
